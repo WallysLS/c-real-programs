@@ -1,0 +1,1 @@
+## Alguns programas feitos durante a disciplina de Programação e Desenvolvimento de Software 1 me interessam, por diferentes razões. A função deste repositório é armazená-los.
