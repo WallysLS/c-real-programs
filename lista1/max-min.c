@@ -1,4 +1,4 @@
-//Retorna o menor entre três numeros
+//Retorna o maior e o menor entre 5 números.
 
 #include <stdio.h>
 
